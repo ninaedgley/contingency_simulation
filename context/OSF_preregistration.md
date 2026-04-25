@@ -35,10 +35,11 @@ Between-subjects factor (Group A vs Group B, N=40 per group) × within-subjects 
 
 ## Randomization
 Property-role assignment (SC/OC/R to colour/size/velocity) is randomised per participant using a Fisher-Yates shuffle implemented in JavaScript at experiment onset. The positive value within each property (e.g. blue vs red as the SC-positive colour) is independently randomised per participant. Group assignment (A/B) is randomised client-side via Math.random() at experiment onset with p=0.50. No stratification or blocking is applied; balance across groups is expected approximately by chance at N=80.
-Sampling
+
+## Sampling
 
 ### Data collection procedures
-Participants recruited via Prolific (UK residents, desktop only, English fluency screener). Experiment delivered via jsPsych hosted on GitHub Pages. Data collected via DataPipe and stored on OSF. Participants complete the experiment in a single unsupervised online session. Prolific IDs recorded via URL parameter. Estimated duration 26 minutes, payment £4.30 (≈£9.90/hr). Exclusion criteria applied post-collection: completion time under 10 minutes, more than 20% missing trial data, or failure of completion code verification.
+Participants recruited via Prolific (UK residents, desktop only, English fluency screener). Experiment delivered via jsPsych hosted on GitHub Pages. Data collected via DataPipe and stored on OSF. Participants complete the experiment in a single unsupervised online session. Prolific IDs recorded via URL parameter. Estimated duration 26 minutes, with exclusion criteria applied post-collection: completion time under 10 minutes, more than 20% missing trial data, or failure of completion code verification.
 
 ### Sample size
 Target N=80 (40 per group). Primary unit of analysis is the individual participant. Trial counts per participant: 180 total (90 per task × 2 tasks).
