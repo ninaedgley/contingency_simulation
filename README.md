@@ -64,7 +64,7 @@ psytrack_figures/ — plots referenced in notebook 05, specific to the PsyTrack 
 
 
 ## Setup
-Notebooks should be run in order.
+Notebooks should be run in order. Processed data are included under `data/processed/`; raw Prolific exports were excluded.
 `python3.11 -m venv .venv`
 `source .venv/bin/activate`
 `python -m pip install -r requirements.txt`
