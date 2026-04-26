@@ -1,8 +1,9 @@
 .venv/
-pycache/
+__pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
 .env
-data/
-CLAUDE.md
+data/raw/
+data/.DS_Store
+.claude/
