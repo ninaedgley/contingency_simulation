@@ -1,6 +1,6 @@
 # Contingency Simulation
 
-This repository contains the data, code, and analysis relevant to *Self-Representation: Learning Contingency?*, a perceptual decision-making study. It was run in parallel to an ongoing theoretical integrative review, which assesses existing formal computational models of self-representation across the cognitive sciences. 
+This repository contains the data, code, and analysis relevant to *Self-Representation and Contingency*, a perceptual decision-making study. It was run in parallel to an ongoing theoretical integrative review, which assesses existing formal computational models of self-representation across the cognitive sciences. 
 
 The review finds that self-representation, traditionally studied across 'levels' of self and interactive complexity (embodied, affective, agentic, social, narrative), can be understood as sharing a common computational goal : encoding the agent's position within the causal structure it perceives in its environment. This is hypothesised to develop primarily through patterns of contingency - causal relationships whose origin can be attributed to the self (kept intentionally distinct in name from Sense of Agency, SoA to avoid confusions between the terms).
 
