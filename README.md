@@ -9,7 +9,7 @@ If this mechanism holds true, learnt property-indexed contingency would transfer
 
 Property-indexed contingency is operationalised as `SC` in the experimental design - a condition in which a participant's action (press) reliably causes the reversal of dot motion. The experiment was designed with OC (observed-causality) and R (random) conditions, to discriminate between the nature of each effect. Participants performed 2 perceptual decision-making tasks, each sharing the SC property. 
 
-Press rates, learning, and relationships between variables were assessed, alongside 4 candidate computational models. Details can be found below.
+Press rates, learning, and relationships between variables were assessed, alongside 4 candidate computational models. Details can be found below, with most analysis living in the dedicated `notebooks/` folder.
 
 - **OSF Preregistration**: https://osf.io/uj92x
 - **Data**: https://osf.io/eh4vq
